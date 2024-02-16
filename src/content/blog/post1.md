@@ -1,5 +1,5 @@
 ---
-title: "[Data Viz] Visualizing investments in startups over the past yers [2000-2014]"
+title: "[Data Viz] Visualizing investments in startups over the past years [2000-2014]"
 description: "Exploratory analysis on a dataset about investiments in startups from 2000 to 2014."
 pubDate: "June, 10 2023"
 heroImage: "\public\startups_invest.png"
@@ -10,4 +10,6 @@ In this final assignment for the Exploratory Analysis and Data Visualization cou
 
 I wanted to highlight most important information, presenting in a concise, readable, and elegant way. In the picture we can identify some impacful moments in history, like the 2004's boom, and get info from the annotations. Beyond that, the picture is modern and pleasant.
 
-<br>Technologies:</br> Python, MatPlotLib, Seaborn, and Photoshop.
+[See the full project here!](https://drive.google.com/drive/folders/1rKeZ9Yla4jvf6IJEz1EvsvxWYWhk51Lf)
+
+<b>Technologies:</b> Python, MatPlotLib, Seaborn, and Photoshop.
