@@ -2,7 +2,7 @@
 title: "[Data Viz] Visualizing investments in startups over the past yers [2000-2014]"
 description: "Exploratory analysis on a dataset about investiments in startups from 2000 to 2014."
 pubDate: "June, 10 2023"
-heroImage: "/startups_invest.png"
+heroImage: "\public\startups_invest.png"
 tags: ["Data Viz", "Python", "Design"]
 ---
 
