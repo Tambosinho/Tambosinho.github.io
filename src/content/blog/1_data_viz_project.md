@@ -10,6 +10,8 @@ In this final assignment for the Exploratory Analysis and Data Visualization cou
 
 I wanted to highlight most important information, presenting in a concise, readable, and elegant way. In the picture we can identify some impacful moments in history, like the 2004's boom, and get info from the annotations. Beyond that, the picture is modern and pleasant.
 
+<b>Main takeaways:</b> \*
+
 [See the full project here!](https://drive.google.com/drive/folders/1rKeZ9Yla4jvf6IJEz1EvsvxWYWhk51Lf)
 
 <b>Technologies:</b> Python, MatPlotLib, Seaborn, and Photoshop.
