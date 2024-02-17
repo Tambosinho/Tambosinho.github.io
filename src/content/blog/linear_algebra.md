@@ -11,6 +11,8 @@ This project was my first actual experience writing LaTex-academic-papers —exc
 
 I really didn’t appreciate the Linear Algebra course, but this particular assignment made me realize how impactful simple algorithms can be for businesses and how many ideas I can possibly conceive by just learning a couple fundamental algorithms.
 
+<p>Open the Document<a href="https://drive.google.com/file/d/1yhyZKD6QOz5DEf41pfTJi7dysnp-ik5x/view?usp=drive_link">example</a>.</p>
+
 [Find the paper here](https://drive.google.com/drive/folders/1qb_Xbqpe2YGXricj58SPsnHfK2O2HdJs?usp=sharing)
 
 <b>Technologies:</b> Python, NumPy, Overleaf
