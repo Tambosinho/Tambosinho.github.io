@@ -1,5 +1,5 @@
 ---
-title: "Demo Item 1"
+title: "Testezinho 1"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 custom_link_label: "Live Preview"
 custom_link: "https://demourl.com/"
