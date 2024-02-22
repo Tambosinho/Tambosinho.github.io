@@ -1,7 +1,7 @@
 ---
 title: "Social credit app for house task management"
 description: "Streamlit application prototype for control and gamification of domestic activities in a student residence"
-pubDate: "Nov 15 2022"
+pubDate: "Nov 15 2023"
 heroImage: "/ranking_socred.png"
 tags: ["python", "streamlit"]
 ---
