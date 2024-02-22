@@ -2,7 +2,7 @@
 title: "Applying PageRank to recommend users of social media platforms"
 description: "Final paper project for Linear Algebra course. We applied PageRank algorithm to predict, based on interactions in the social network (likes, comments, follow, etc), recommendation of must-know people for a particular user. Dataset taken from Kaggle."
 pubDate: "Nov 15 2023"
-heroImage: "/public/Linear_algebra_cover.jpg"
+heroImage: "/Linear_algebra_cover.jpg"
 badge: "Research"
 tags: ["Linear Algebra", "Python", "Recommendation systems"]
 ---
