@@ -23,6 +23,4 @@ For the project, I developed a simple yet effective Python app using Streamlit, 
 3. See the ranking of all house members and identify the leader (indicated with a little crown)
 4. Access some statistics
 
-![Printscreen of the project]("/formulario.png")
-
 If you have suggestions or questions, please reach out to me via joaodupe2@gmail.com!
